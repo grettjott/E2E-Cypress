@@ -262,6 +262,9 @@ build/Release
 node_modules/
 jspm_packages/
 
+#screenshots
+screenshots/
+
 # TypeScript v1 declaration files
 typings/
 
